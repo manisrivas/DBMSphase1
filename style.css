@@ -65,6 +65,21 @@ h1{
 margin-left: 610px;
 padding: 45px; 
 }
+.teams button{
+    height: 45px;
+    width: 150px;
+    border-radius: 20px;
+    color: rgb(238, 232, 232);
+    background: rgb(74, 116, 231);
+    cursor: pointer;
+    border: 0px;
+    transition: 0.2s all ease 0s;
+}
+.teams button:hover{
+    background: white;
+    color:  rgb(74, 116, 231);
+    transition: 0.2s all ease 0s;
+}
 .line{
     display: inline-flex;
     
